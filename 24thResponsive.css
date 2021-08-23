@@ -1,0 +1,417 @@
+
+/* Fixed  */
+.primary-menu span{
+    display: none;
+}
+@media (max-width: 1365px){
+    .member img {
+        height: 280px;
+        width: 100%;
+    }
+    .header-btn {
+        width: 75px;
+        margin-left: -54px;
+    }
+    .header-logo {
+        margin-left: 34px;
+    }
+    .left-video {
+        width: 45%;
+        box-sizing: border-box;
+    }
+    .right-content {
+        width: 48%;
+        padding: 0px 0px;
+        box-sizing: border-box;
+    }
+    .list-box .common-box a {
+        padding: 5px 21px;
+        font-size: 19px;
+    }
+}
+@media (max-width: 1290px){
+    .box-text h2 {
+        font-size: 24px;
+        margin-bottom: 16px;
+        line-height: 35px;
+    }
+    .service-box {
+        width: 29%;
+        padding: 24px 8px;
+        margin-left: 37px;
+    }
+    .big-box {
+        width: 30.3%;
+    }
+    .member img {
+        height: 276px;
+        width: 90%;
+    }
+    .member-bio {
+        padding: 14px 0px;
+        width: 90%;
+    }
+    .member-bio h3 {
+        font-size: 22px;
+    }
+    .member-bio p {
+        font-size: 18px;
+    }
+}
+@media (max-width:1050px){
+    .logo img {
+        height: 40px;
+        padding: 10px 0;
+    }
+    .logo span {
+        margin-top: 16px;
+        font-size: 23px;
+    }
+    .header-logo {
+        width: 28%;
+        margin-right: -12px;
+    }
+    .primary-menu {
+        margin-left: 29px;
+        line-height: 58px;
+    }
+    .banner-section {
+        padding: 142px 0;
+    }
+    .banner-text h3 {
+        font-size: 20px;
+    }
+    .banner-text h2 {
+        font-size: 45px;
+    }
+    .right-content h1 {
+        font-size: 31px;
+        margin-bottom: 10px;
+    }
+    .left-video {
+        width: 45%;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    }
+    .right-content {
+        width: 50%;
+        padding: 0px 16px;
+        box-sizing: border-box;
+    }
+    .common-box a {
+        padding: 15px 18px;
+        font-size: 20px;
+    }
+    .service-text h1 {
+        font-size: 39px;
+        margin-bottom: 21px;
+        margin-top: 50px;
+    }
+    .service-text p {
+        font-size: 22px;
+    }
+    .price-text p {
+        font-size: 19px;
+        margin-bottom: 56px;
+    }
+    .price-text h1 {
+        font-size: 36px;
+    }
+    .price-box p {
+        margin: 22px 0;
+        font-size: 15px;
+        margin-left: 18px;
+    }
+    .list-box .common-box a {
+        padding: 4px 9px;
+        font-size: 16px;
+    }
+    .member img {
+        height: 242px;
+    }
+    .member-bio h3 {
+        font-size: 17px;
+    }
+    .member-bio p {
+        font-size: 15px;
+    }
+    .team-text h1 {
+        font-size: 36px;
+    }
+}
+
+
+/* Fixed  */
+.primary-menu span{
+    display: none;}
+@media (max-width:968px){
+    .logo img {
+        float: inherit;
+    }
+    .header-logo {
+        width: 90%;
+        text-align: center;
+    }
+    .logo span {
+        position: relative;
+        top: -22px;
+    }
+    .header-btn {
+        width: 68px;
+        position: absolute;
+        bottom: 9px;
+        right: 25px;
+    }
+    .primary-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .primary-menu span{
+        font-size: 24px;
+        display: block;
+        cursor: pointer;
+    }
+    .header {
+        position: relative;
+    }
+    .common-box a {
+        font-size: 17px;
+    }
+    .banner-section {
+        padding: 125px 0;
+    }
+    .left-video {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .right-content {
+        width: 100%;
+        padding: 0 15px;
+        text-align: center;
+    }
+    .service-text {
+        margin-bottom: 60px;
+    }
+    .service-text h1 {
+        font-size: 29px;
+        margin-top: 50px;
+    }
+    .service-text p {
+        font-size: 20px;
+    }
+    .service-box {
+        width: 43%;
+        padding: 16px 8px;
+    }
+    .list-box {
+        font-size: 17px;
+        line-height: 43px;
+    }
+    .list-box ul li span {
+        font-size: 17px;
+    }
+    .list-box .common-box a {
+        padding: 1px 9px;
+        font-size: 11px;
+    }
+    .price-box h2 {
+        font-size: 21px;
+        line-height: 57px;
+    }
+    .price-box h1 {
+        font-size: 37px;
+        margin-left: 26px;
+    }
+    .team-text h1 {
+        font-size: 36px;
+    }
+    .submit {
+        padding: 17px 36px;
+        font-size: 17px;
+    }
+    .news-search input {
+        padding: 17px 100px;
+        margin-left: 11px;
+        font-size: 20px;
+        padding-top: 15px;
+        padding-right: 60px;
+    }
+    .primary-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .primary-menu .mobile-menu-check:checked ~ ul{
+        opacity: 1;
+        visibility: visible;
+    }
+    .mobile-menu-check {
+        height: 50px;
+        width: 20px;
+        opacity: 0;
+    }
+    .mobile-menu-icon {
+        position: absolute;
+        top: 80px;
+        left: 29px;
+        cursor: pointer;
+        pointer-events: none;
+    }
+    .primary-menu ul li {
+        background: white;
+    }
+    .primary-menu ul li ul li {
+        z-index: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .news-text h1 {
+        margin-top: -65px;
+        font-size: 34px;
+    }
+    .news-text h4 {
+        font-size: 21px;
+        line-height: 160px;
+    }
+    .banner-section {
+        padding: 92px 0;
+    }
+    .banner-text h2 {
+        font-size: 36px;
+    }
+    .banner-text h3 {
+        font-size: 17px;
+    }
+    .common-box a {
+        font-size: 17px;
+        width: 60%;
+        margin-bottom: 22px;
+    }
+    .left-video {
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .right-content {
+        width: 100%; 
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .price-text h1 {
+        font-size: 32px;
+        line-height: 75px;
+    }
+    .price-text p {
+        font-size: 16px;
+    }
+    .big-box {
+        width: 90%;
+        margin-left: 30px;
+    }
+    .list-box .common-box a {
+        padding: 8px 13px;
+        font-size: 17px;
+    }
+    .team-text h1 {
+        font-size: 26px;
+        padding: 30px 0;
+    }
+    .member {
+        width: 48%;
+        margin-left: 2%;
+    }
+    .member img {
+        height: 285px;
+    }
+
+
+}
+@media (max-width: 580px){
+    .news-search input {
+        margin-bottom: 30px;
+    }
+    .member {
+        width: 96%;
+        margin-left: 31px;
+    }
+    .member img {
+        height: 370px;
+    }
+
+    .team-text h1 {
+        font-size: 22px;
+        padding: 38px 0;
+    }
+    .team-text h1 {
+        font-size: 18px;
+        padding: 26px 0;
+    }
+    .service-text {
+        margin-bottom: 50px;
+    }
+    .service-text h1 {
+        font-size: 21px;
+        margin-bottom: 16px;
+        margin-top: 32px;
+    }
+    .service-text p {
+        font-size: 14px;
+    }
+    .box-text {
+        width: 83%;
+    }
+    .service-box {
+        width: 88%;
+        padding: 30px 10px;
+        position: relative;
+    }
+    .box-icon {
+        width: 10%;
+        font-size: 35px;
+        position: absolute;
+        left: 20px;
+    }
+    .service-box {
+	width: 88%;
+	padding: 30px 10px;
+	position: relative;}
+    .list-box .common-box a {
+        padding: 4px 6px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 480px) {
+    .news-text h1 {
+        font-size: 26px;
+    }
+    .news-text h4 {
+        font-size: 15px;
+        line-height: 174px;
+    }
+    .banner-section {
+        padding: 53px 0;
+    }
+    .common-box a {
+        font-size: 15px;
+        width: 36%;
+        margin-bottom: 22px;
+    }
+    .service-box {
+        width: 84%;
+        padding: 30px 10px;
+        position: relative;
+    }
+    .box-text {
+        width: 78%;
+    }
+    .price-text h1 {
+        font-size: 24px;
+    }
+    .price-text p {
+        margin-bottom: 37px;
+        font-size: 12px;
+    }
+}
